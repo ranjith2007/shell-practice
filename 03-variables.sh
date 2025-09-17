@@ -5,7 +5,7 @@ PERSON2=Manoj
 
 echo "$PERSON1:: HI $PERSON2, How are you?"
 echo "$PERSON2:: I'M Fine $PERSON1, How are you?"
-echo "$PERSON1:: I'M Fine, what's going on?"
+echo "$PERSON1:: I'M Fine $PERSON2, what's going on?"
 echo "$PERSON2::I'M LEARNING SHELL SCRIPT $PERSON1"
 
 
