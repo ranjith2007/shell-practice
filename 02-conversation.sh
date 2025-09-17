@@ -7,4 +7,4 @@ echo "Manoj:: I'm practicing shell script, What about you?"
 echo "Ranjith:: I'm also practicing shell script"
 
 
-#Next 03-variables. Instead of mentioning name in the conversation. Using variables we can easily pass from outside through arguments.
+#Next 03-variables. Instead of mentioning name in the conversation. Using variables we can easily pass values from outside through arguments.
