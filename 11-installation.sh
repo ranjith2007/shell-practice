@@ -25,7 +25,7 @@ else
     echo "Git is already installed, nothing to do"
 fi
 
-dnf lis installed msql 
+dnf lis installed msql #MYSQL
 if [ $? -ne 0 ]
 then
     echo "Git is not installed..going to install
